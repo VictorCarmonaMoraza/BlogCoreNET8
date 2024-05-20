@@ -10,6 +10,6 @@ namespace BlogCore.Data
         {
         }
 
-        //Poner aqui todos los modelos que se vayan creando
+        //Poner aqui todos los modelos que se vayan creando en nuestra BBDD
     }
 }
